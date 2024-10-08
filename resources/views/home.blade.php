@@ -15,7 +15,7 @@
         }
         nav {
             border-radius: 10px;
-            background-color: #F05454;
+            background-color: #73EC8B;
         }
     </style>
 </head>
